@@ -1,133 +1,149 @@
-# CODSOFT Web Development Internship Projects
+# 💻 CODSOFT Web Development Internship Projects
 
-Welcome to the **CODSOFT** repository! This repository contains a collection of web development projects completed as part of my internship at CODSOFT. The tasks cover a wide range of skills, from basic HTML and CSS to full-stack development. Below, you'll find the details of each project that I’ve worked on as part of this internship.
+Welcome to the **CODSOFT** repository! This repo contains the projects I’ve built as part of the **Web Development Internship** at CODSOFT. These tasks showcase my learning journey from beginner to advanced-level development using HTML, CSS, JavaScript, and more.
 
-## Table of Contents
+---
 
-1. [Level 1 (Beginner)](#level-1-beginner)
-   - Landing Page
-   - Portfolio Website
-   - Calculator
-2. [Level 2 (Intermediate)](#level-2-intermediate)
-   - Tribute Page
-   - Job Board
-3. [Level 3 (Advanced)](#level-3-advanced)
-   - Blogging Platform
-   - Project Management Tool
-4. [Tech Stack](#tech-stack)
-5. [How to Get Started](#how-to-get-started)
-6. [Demo Links](#demo-links)
+## 📁 Projects Overview
 
-## Level 1 (Beginner)
+### 🔰 Level 1 (Beginner)
 
-### 1. Landing Page
-A simple, responsive landing page created using **HTML5** and **CSS3**. It demonstrates basic webpage structure and styling techniques.
+1. **Landing Page**  
+   A modern, responsive landing page created using **HTML5** and **CSS3**.  
+   👉 [Live Demo](https://aksrajor.github.io/CODESOFT/Task1_LandingPage/)
 
-### 2. Portfolio Website
-A personal portfolio to showcase my resume, projects, and contact information. Built with **HTML5** and **CSS3**, this project features clean design and easy navigation.
+2. **Portfolio Website**  
+   A sleek personal portfolio with sections like About, Projects, and Contact.  
+   👉 [Live Demo](https://aksrajor.github.io/CODESOFT/Task2_Portfolio/)
 
-### 3. Calculator
-A fully functional calculator built with **HTML5**, **CSS3**, and **JavaScript**. The project involves DOM manipulation and event handling to create a responsive, interactive interface.
+3. **Calculator**  
+   A functional calculator built with **HTML**, **CSS**, and **JavaScript**.  
+   👉 [Live Demo](https://aksrajor.github.io/CODESOFT/Task3_Calculator/)
 
-## Level 2 (Intermediate)
+---
 
-### 4. Tribute Page to APJ Abdul Kalam
-A tribute page dedicated to Dr. APJ Abdul Kalam, India's former President, showcasing his life and contributions. Built using **HTML5** and **CSS3**.
+### ⚙️ Level 2 (Intermediate)
 
-### 5. Job Board
-A job board web app using **React** for the frontend and **Node.js** and **MongoDB** (or **PostgreSQL**) for the backend. It allows users to post and apply for jobs. The app demonstrates the power of full-stack web development.
+4. **Tribute Page – Dr. A.P.J. Abdul Kalam**  
+   A tribute page highlighting the achievements and legacy of India’s Missile Man.  
+   👉 [Live Demo](https://aksrajor.github.io/CODESOFT/Task4_TributePage/)
 
-## Level 3 (Advanced)
+> 💡 *More intermediate & advanced tasks (Job Board, Blogging Platform, etc.) coming soon! Stay tuned...*
 
-### 6. Blogging Platform
-A full-stack web app where users can create posts, comment on them, and manage their accounts. Built using **Node.js**, **Express**, **MongoDB**, and **JWT** for authentication.
+---
 
-### 7. Project Management Tool
-A complete project management tool built with **React**, **Node.js**, and **MongoDB** for backend storage. It allows users to track tasks, projects, and deadlines.
+## 🛠️ Tech Stack Used
 
-## Tech Stack
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Version Control**: Git & GitHub
+- **Deployment**: GitHub Pages
 
-The following technologies have been used across various projects:
+---
 
-- **Frontend**: HTML5, CSS3, JavaScript, React
-- **Backend**: Node.js, Express, MongoDB, PostgreSQL
-- **Authentication**: JWT, Passport.js
-- **Version Control**: Git, GitHub
-- **Deployment**: GitHub Pages, Heroku, Netlify
+## 🚀 How to Run Locally
 
-## How to Get Started
+```bash
+# Clone the repository
+git clone https://github.com/AKSRAJORA/CODESOFT.git
 
-To clone this repository and start exploring the projects locally, follow these steps:
+# Navigate into the desired project folder
+cd CODESOFT/Task1_LandingPage
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AKSRAJORA/CODSOFT.git
-Navigate to the desired project folder:
+# Open index.html in your browser or with Live Server in VS Code
+🌐 Connect with Me
+🔗 LinkedIn
 
-bash
+🐙 GitHub
+
+📸 Instagram
+
+🎯 Hashtags for LinkedIn Post
+When posting about these projects, don’t forget to use:
+
+less
 Copy
 Edit
-cd CODSOFT/Task1_LandingPage  # or any other project folder
-Open the project in your preferred code editor (like VS Code) and run it in your browser.
+#codsoft #webdevelopment #internship #HTML #CSS #JavaScript
+📜 Certificate & Submission
+📌 A submission form will be sent by CodSoft soon.
 
-For full-stack projects like the Job Board, Blogging Platform, and Project Management Tool, you might need to install dependencies and set up a backend server. For example:
+🏆 Completing all tasks boosts your portfolio and showcases dedication!
 
-Install dependencies:
+Thanks for checking out my internship projects! Feel free to leave feedback or connect with me. ✨
 
-bash
-Copy
-Edit
-npm install
-Start the development server:
-
-bash
-Copy
-Edit
-npm start
-Visit http://localhost:3000 (or the relevant port) to view the app.
-
-Demo Links
-Each project is hosted online via GitHub Pages (for frontend) or Heroku/Netlify (for full-stack). Below are the live links to explore the projects:
-
-Landing Page
-
-Portfolio Website
-
-Calculator
-
-Tribute Page
-
-Job Board
-
-Blogging Platform
-
-Project Management Tool
-
-Conclusion
-This repository showcases my journey through web development, from simple front-end projects to full-stack applications. It highlights my commitment to learning and improving as a developer. I look forward to contributing more and advancing my skills with each task.
-
-Connect with Me
-LinkedIn
-
-GitHub
-
-Twitter
-
-Thank you for visiting my CODSOFT repository! 😄
-
-pgsql
+yaml
 Copy
 Edit
 
 ---
 
-### **Things to Update:**
-
-1. **Links**: Replace `yourusername` with your GitHub username for the demo links and social media links.
-2. **Social Media**: Include your actual LinkedIn, GitHub, Twitter, or any other relevant profile links under "Connect with Me."
-3. **Deployment**: If some of your projects are hosted on platforms like Heroku, Netlify, or GitHub Pages, ensure to update the demo links for the full-stack projects accordingly.
-
-This README will give a cohesive, professional look to your CODSOFT repository and guide anyone exploring it through your projects, their functionalities, and how to run them. Let me know if you need further changes or additions! 😊
+Paste this into your `README.md` and you're all set, bro! Want help writing the LinkedIn post next? 💼🔥
 
 
+You said:
+i provide all link of my accounts like linked in github ista paste them here n 
 
+ChatGPT said:
+Absolutely, Ankush! Here's your updated README.md with your direct profile links (LinkedIn, GitHub, and Instagram) properly pasted and polished—just copy and paste this into your repo:
+
+markdown
+Copy
+Edit
+# 💻 CODSOFT Web Development Internship Projects
+
+Welcome to the **CODSOFT** repository! This repo contains the projects I’ve built as part of the **Web Development Internship** at CODSOFT. These tasks showcase my learning journey from beginner to advanced-level development using HTML, CSS, JavaScript, and more.
+
+---
+
+## 📁 Projects Overview
+
+### 🔰 Level 1 (Beginner)
+
+1. **Landing Page**  
+   A modern, responsive landing page created using **HTML5** and **CSS3**.  
+   👉 [Live Demo](https://aksrajor.github.io/CODESOFT/Task1_LandingPage/)
+
+2. **Portfolio Website**  
+   A sleek personal portfolio with sections like About, Projects, and Contact.  
+   👉 [Live Demo](https://aksrajor.github.io/CODESOFT/Task2_Portfolio/)
+
+3. **Calculator**  
+   A functional calculator built with **HTML**, **CSS**, and **JavaScript**.  
+   👉 [Live Demo](https://aksrajor.github.io/CODESOFT/Task3_Calculator/)
+
+---
+
+### ⚙️ Level 2 (Intermediate)
+
+4. **Tribute Page – Dr. A.P.J. Abdul Kalam**  
+   A tribute page highlighting the achievements and legacy of India’s Missile Man.  
+   👉 [Live Demo](https://aksrajor.github.io/CODESOFT/Task4_TributePage/)
+
+> 💡 *More intermediate & advanced tasks (Job Board, Blogging Platform, etc.) coming soon! Stay tuned...*
+
+---
+
+## 🛠️ Tech Stack Used
+
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Version Control**: Git & GitHub
+- **Deployment**: GitHub Pages
+
+---
+
+## 🚀 How to Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/AKSRAJORA/CODESOFT.git
+
+# Navigate into the desired project folder
+cd CODESOFT/Task1_LandingPage
+
+# Open index.html in your browser or with Live Server in VS Code
+🌐 Connect with Me
+🔗 LinkedIn: Ankush Sharma
+
+🐙 GitHub: AKSRAJORA
+
+📸 Instagram: @ankush_sharma9617
